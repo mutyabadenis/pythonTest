@@ -5,7 +5,7 @@ def sum_of_nums ( *hobbies):
 
        print(hobbyList)
 
-sum_of_nums('swimming', 'football', 'watching Movies')
+sum_of_nums('swimming')
  
 
 
