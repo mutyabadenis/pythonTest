@@ -7,6 +7,7 @@ def sum_of_nums ( *hobbies):
 
 sum_of_nums('swimming')
  
+ # The output: ['swimming']
 
 
     
